@@ -1,0 +1,4 @@
+src/hasher/__pycache__
+__init__.py
+*.pyc
+note.txt
